@@ -7,3 +7,4 @@
 5. [특정 namespace의 모든 Pod에 대한 name 및 namespace 정보를 json 표현식을 이용하여 나타내시오.](/cka/5_jsonpath.md)
 6. [web deployment를 7개의 Pod로 확장하시오.](/cka/6_scale.md)
 7. [nginx-7 Deployment를 생성하고, nslookup 유틸리티를 사용하여 DNS records를 저장하시오.](/cka/7_nslookup.md)
+8. [nginx image를 포함한 2개의 Pod 를 만들고, 각 Pod의 label을 env=prod, env=dev로 설정하시오.](/cka/8_label.md)
