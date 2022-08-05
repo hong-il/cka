@@ -9,3 +9,4 @@
 7. [nginx-7 Deployment를 생성하고, nslookup 유틸리티를 사용하여 DNS records를 저장하시오.](/cka/7_nslookup.md)
 8. [nginx image를 포함한 2개의 Pod 를 만들고, 각 Pod의 label을 env=prod, env=dev로 설정하시오.](/cka/8_label.md)
 9. [Deployment pipeline을 위한 ClusterRole을 신규 생성하고, 특정 Namespace의 ServiceAccount에 Bind 하시오.](/cka/9_role_bind.md)
+10. [Persistent Volumes를 사용하지 않는 다음 조건의 Pod를 생성하시오.](/cka/10_pod_volume.md)
