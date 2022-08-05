@@ -11,3 +11,4 @@
 9. [Deployment pipeline을 위한 ClusterRole을 신규 생성하고, 특정 Namespace의 ServiceAccount에 Bind 하시오.](/cka/9_role_bind.md)
 10. [Persistent Volumes를 사용하지 않는 다음 조건의 Pod를 생성하시오.](/cka/10_pod_volume.md)
 11. [NodeSelector가 disk=ssd인 Pod를 Schedule 하시오.](/cka/11_node_selector.md)
+12. [모든 Pod를 이름 순서대로 출력하시오.](/cka/12_sort_by.md)
